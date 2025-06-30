@@ -2,7 +2,7 @@
   "name": "data-analyst-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diveshzope.github.io/da-portfolio",
+  "homepage": "https://DiveshZope08.github.io/da-portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
